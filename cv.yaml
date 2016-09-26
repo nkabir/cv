@@ -1,15 +1,15 @@
 name:
-  first: Brandon
-  last: Amos
-phone: ~(540)~947~1238
-email: bamos@cs.cmu.edu
+  first: Norman
+  last: Kabir
+phone: ~(917)~587~5862
+email: nkabir@gmail.com
 pdf: /data/cv.pdf
-src: https://github.com/bamos/cv
+src: https://github.com/nkabir
 url: "bamos.github.io"
 social:
-  github: bamos
-  twitter: brandondamos
-  linkedin: bdamos
+  github: nkabir
+  twitter: nkabir
+  linkedin: nkabir
 # Erdős  number is at most 4.
 # (Brandon Amos -> Layne Watson -> Leroy Kelly -> Zoltán Füredi -> Paul Erdős )
 
@@ -21,13 +21,13 @@ color2: '0.25,0.25,0.25' # Make the font under the name a darker grey.
 # (tag, section type, title)
 order:
   # - [interests, Research Interests]
+  - [industry, Industry Experience]
   - [education, Education]
   - [research, Research Experience]
   # - [NEWPAGE, NEWPAGE]
   - [publications, Publications]
   # - [NEWPAGE, NEWPAGE]
   - [teaching, Teaching Experience]
-  - [industry, Industry Experience]
   # - [projects, Projects]
   # - [coursework, CMU Graduate Coursework]
   - [honors, Honors \& Awards]
@@ -118,7 +118,7 @@ research:
       #- '{\bf Scala} and {\bf Bash} development in {\bf Linux}.'
 
 industry:
-  - place: Adobe Research
+  - place: Autonomy Capital Research
     location: San Jose, California
     title: Data Scientist Intern
     dates: May 2014 -- Aug 2014
